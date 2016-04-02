@@ -40,8 +40,10 @@ Optional features:
 Here's a walkthrough of implemented user stories:
 
 
-<img src='http://i.imgur.com/f2naoFf.gifv' title='Login Walkthrough' width='' alt='Login Walkthrough'/>
+<img src='http://i.imgur.com/f2naoFf.gif' title='Login Walkthrough' width='' alt='Login Walkthrough'/>
 
 <img src='http://i.imgur.com/9YaYLbP.gifv' title='Compose Walkthrough' width='' alt='Compose Walkthrough'/>
+
+Video walkthrough:: [Youtube](https://youtu.be/f1hHVDLONg0)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
