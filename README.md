@@ -46,4 +46,4 @@ Here's a walkthrough of implemented user stories:
 
 Video walkthrough:: [Youtube](https://youtu.be/f1hHVDLONg0)
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [imgur.com](https://imgur.com/).
