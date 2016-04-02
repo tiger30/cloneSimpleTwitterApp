@@ -31,7 +31,7 @@ public class CreateTweetFragment extends DialogFragment {
     private Button btnSave;
     private EditText etTweetBody;
     private TextView etCount;
-    private int greenColor;
+//    private int greenColor;
     private int grayColor;
     private int redColor;
     private int blackColor;
